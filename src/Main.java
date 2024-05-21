@@ -13,7 +13,7 @@ public class Main {
             System.out.println("Ваша Система временно не поддерживается");
         }
 
-        System.out.println("Задача 2");
+        System.out.println("Задача 2"); // добавлены уровни вложенности, clientOS - реинициализирована
 
         clientOS = 1;
         int yearMin = 2000;
@@ -39,7 +39,7 @@ public class Main {
         }
 
 
-        System.out.println("Задача 3");
+        System.out.println("Задача 3"); // упрощено логическое выражение
 
         int year = 2000;
 
@@ -50,7 +50,7 @@ public class Main {
         }
 
 
-        System.out.println("Задача 4");
+        System.out.println("Задача 4"); // упрощен вывод, добавлен уровень вложенности
 
 
         int deliveryDay = 0;
